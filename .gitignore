@@ -1,0 +1,17 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+
+# Object files
+*.obj
+
+# Build directories
+build/
+dist/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
