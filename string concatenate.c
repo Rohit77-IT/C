@@ -29,4 +29,5 @@ while(str2[j] != '\0')
 }
 str1[i] = '\0';
 printf("Concatenated string: %s\n",str1);
+return 0;
 }
